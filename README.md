@@ -1,9 +1,9 @@
 # Amazon
 
-A new Flutter project.
+Redesign da página Home e de Produto do aplicativo da Amazon 
 
 <img src="https://github.com/user-attachments/assets/6dcd7bb0-ed37-4608-a612-1d299a26467e" width="400">
 
-## Getting Started
+## Link para visualização
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+https://amazon-hbwg7u.flutterflow.app/
